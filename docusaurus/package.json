@@ -100,7 +100,7 @@
     "core-js": "3.35.0",
     "css-declaration-sorter": "6.3.0",
     "css-minimizer-webpack-plugin": "4.0.0",
-    "cssnano": "6.0.2",
+    "cssnano": "6.1.0",
     "cssnano-preset-advanced": "6.0.2",
     "del": "6.1.1",
     "docusaurus-plugin-hubspot": "^1.0.0",
