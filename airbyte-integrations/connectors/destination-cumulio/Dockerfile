@@ -1,4 +1,4 @@
-FROM python:3.9.11 as base
+FROM python:3.13.0a6 as base
 # FROM python:3.9.11-alpine3.15 as base
 # switched from alpine as there were tons of errors (in case you want to switch back to alpine)
 # - https://stackoverflow.com/a/57485724/5246670
